@@ -10,9 +10,7 @@
 
 ### 验证邮箱
 进入邮箱，会收到一封邮件，点击后跳转github，登陆后输入收到的验证码。
-<img width="591" alt="image" src="https://user-images.githubusercontent.com/80807301/111429760-65267380-8734-11eb-819b-3f7ef822cbef.png">
-
-<img width="727" alt="image" src="https://user-images.githubusercontent.com/80807301/111429965-ab7bd280-8734-11eb-9104-71bdddf0d0c0.png">
+![Uploading image.png…]()
 
 **注册完成**
 
